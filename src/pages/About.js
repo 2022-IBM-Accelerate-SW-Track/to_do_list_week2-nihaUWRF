@@ -18,10 +18,12 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Niharika Bolukonda</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Greetings Everyone! My name is Niharika Bolukonda, and I am a rising senior
+              at UW-River Falls. My hobbies are playing badminton, photography, and I pride to
+              be a detail-oriented and organized person. The "ONE" ingredient I hate to eat and add
+              in my food is Onion.
             </div>
           </div>
         </div>
